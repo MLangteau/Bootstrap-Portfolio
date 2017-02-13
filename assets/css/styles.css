@@ -91,6 +91,9 @@ footer {
 /*	float: left; */
 }
 
+.textWhite {
+	color: white;
+}
 .main-body {
 /*   /* Background pattern from Subtle Patterns */
 	background-image: url("../images/handmadepaper_@2X.png");   
